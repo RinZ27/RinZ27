@@ -10,7 +10,7 @@
 
 ### 👋 Hello world
 
-Just someone who’s fascinated by how things work under the hood. Recently spent some time poking around **django-unicorn's** internals and happened to stumble upon a state manipulation bug (**[CVE-2026-31815](https://github.com/advisories/GHSA-ffv6-jj46-x367)**). It was a huge learning curve for me and feel really honored to be the first person credited in their official security log. Working with the maintainers to fix it was a solid experience.
+Just someone who’s fascinated by how things work under the hood. Recently spent some time poking around **django-unicorn's** internals and happened to stumble upon a state manipulation bug (**[CVE-2026-31815](https://github.com/advisories/GHSA-ffv6-jj46-x367)**). It was a huge learning curve for me and feel really honored to be credited in their official security log. Working with the maintainers to fix it was a solid experience.
 
 Nowadays, I'm mostly just trying to read more code and learn as much as I can from the open-source community. There's a certain quiet satisfaction in finding a logic gap and helping turn it into a fix, but I know I've still got a long way to go. Always up for a good technical challenge and a chance to learn something new.
 
