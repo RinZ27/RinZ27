@@ -8,11 +8,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=2000&color=00B4D8&center=true&vCenter=true&width=500&lines=%3E+Initialize+Connection...;%3E+Scanning+Vulnerabilities...;%3E+Exploiting+Logic+Flaws...;%3E+Patch+Delivered." />
 </div>
 
-### 🛠️ Pokes & Fixes
+### 🛡️ Security Research & Contributions
 
-Just a security-minded developer fascinated by what lies beneath the surface. Recently uncovered a state manipulation flaw in **django-unicorn** internals (**[CVE-2026-31815](https://github.com/advisories/GHSA-ffv6-jj46-x367)**). Collaborating with maintainers to turn bugs into fixes is where I find my "quiet satisfaction".
+I am a security-focused developer with a deep interest in vulnerability research and logic analysis. A notable part of my journey involves identifying a state manipulation vulnerability within **django-unicorn** internals (**[CVE-2026-31815](https://github.com/advisories/GHSA-ffv6-jj46-x367)**). Collaborating with the maintainers to implement a robust fix was a highly rewarding experience.
 
-Still a student of the craft, always reading more source code and learning from the open-source community. If it involves a technical challenge or a logic gap, I am probably interested.
+Currently, I spend my time analyzing source code and contributing to the open-source community. I find great satisfaction in dissecting complex systems, identifying logic gaps, and helping build more secure software.
 
 ---
 
