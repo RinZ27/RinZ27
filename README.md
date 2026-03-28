@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=2000&color=00B4D8&center=true&vCenter=true&width=500&lines=%3E+Initialize+Connection...;%3E+Scanning+Vulnerabilities...;%3E+Exploiting+Logic+Flaws...;%3E+Patch+Delivered." />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=2000&color=00B4D8&center=true&vCenter=true&width=500&lines=%3E+Reading+source+code...;%3E+Poking+around+internals...;%3E+Identifying+logic+gaps.;%3E+Still+learning+every+day." />
 </div>
 
 ### 🛠️ Notable Milestones
