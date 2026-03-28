@@ -20,7 +20,7 @@ Still a student of the craft, always reading more source code and learning from 
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,java,js,ts,docker,github,git,postgres,napi,re,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,go,java,js,ts,docker,github,git,postgres,napi,re&perline=12" />
   </a>
 </div>
 
@@ -31,19 +31,19 @@ Still a student of the craft, always reading more source code and learning from 
 ### 📊 SYSTEM_METRICS://ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RinZ27&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=ff5252&text_color=ffffff&bg_color=0d1117" alt="RinZ27 Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RinZ27&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=ff5252&fire=ff5252&currStreakLabel=00b4d8" alt="Streak Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RinZ27&show_icons=true&theme=tokyonight&hide_border=true" alt="RinZ27 Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RinZ27&theme=tokyonight&hide_border=true" alt="Streak Stats" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinZ27&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0d1117" alt="Top Langs" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinZ27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="170" />
 </p>
 
 ---
 
 <div align="center">
   <code><b>STATUS:</b> <span style="color: #00B4D8;">ACTIVE</span></code> | 
-  <a href="https://twitter.com/JackyChun96"><code>TWITTER</code></a> | 
-  <a href="mailto:dangnhatrin90@gmail.com"><code>EMAIL</code></a> | 
+  <a href="https://twitter.com/JackyChun96" target="_blank"><code>TWITTER</code></a> | 
+  <a href="mailto:dangnhatrin90@gmail.com" target="_blank"><code>EMAIL</code></a> | 
   <img src="https://komarev.com/ghpvc/?username=RinZ27&color=00b4d8&style=flat-square&label=TRAFFIC_ID" alt="Visitor Counter" />
 </div>
