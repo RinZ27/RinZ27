@@ -10,9 +10,9 @@
 
 ### 🛠️ Notable Milestones
 
-I am a security-focused developer with a deep interest in vulnerability research and logic analysis. A notable part of my journey involves identifying a state manipulation vulnerability within **django-unicorn** internals (**[CVE-2026-31815](https://github.com/advisories/GHSA-ffv6-jj46-x367)**). Collaborating with the maintainers to implement a robust fix was a highly rewarding experience.
+Security research and logic analysis have always been a primary focus for me. One of the highlights was finding a state manipulation flaw in **django-unicorn** (**[CVE-2026-31815](https://github.com/advisories/GHSA-ffv6-jj46-x367)**), which turned into a great collaborative effort with the maintainers to ship a proper fix.
 
-Currently, I spend my time analyzing source code and contributing to the open-source community. I find great satisfaction in dissecting complex systems, identifying logic gaps, and helping build more secure software.
+Most of my time is dedicated to reading source code and contributing back to the open-source community. There’s something rewarding about dissecting complex systems and helping secure the stack, one logic gap at a time.
 
 ---
 
