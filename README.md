@@ -39,5 +39,5 @@ Most of my time is dedicated to reading source code and contributing back to the
 <div align="center">
   <a href="https://twitter.com/JackyChun96" target="_blank"><code>TWITTER</code></a> | 
   <a href="mailto:dangnhatrin90@gmail.com" target="_blank"><code>EMAIL</code></a> | 
-  <img src="https://komarev.com/ghpvc/?username=RinZ27&color=00b4d8&style=flat-square&label=TRAFFIC_ID" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=RinZ27&color=00b4d8&style=flat-square&label=TRAFFIC" alt="Visitor Counter" />
 </div>
