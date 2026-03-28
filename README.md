@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=2000&color=00B4D8&center=true&vCenter=true&width=500&lines=%3E+Initialize+Connection...;%3E+Scanning+Vulnerabilities...;%3E+Exploiting+Logic+Flaws...;%3E+Patch+Delivered." />
 </div>
 
-### 👋 Hello world
+### 👋 Welcome
 
 Just a security-minded developer fascinated by what lies beneath the surface. Recently uncovered a state manipulation flaw in **django-unicorn** internals (**[CVE-2026-31815](https://github.com/advisories/GHSA-ffv6-jj46-x367)**). Collaborating with maintainers to turn bugs into fixes is where I find my "quiet satisfaction".
 
@@ -16,7 +16,7 @@ Still a student of the craft, always reading more source code and learning from 
 
 ---
 
-### 📡 TECH_STACK://DOSSIER
+### 📡 TECH STACK:
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -28,7 +28,7 @@ Still a student of the craft, always reading more source code and learning from 
 
 ---
 
-### 📊 SYSTEM_METRICS://ACTIVITY
+### 📊 METRICS:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RinZ27&show_icons=true&theme=tokyonight&hide_border=true" alt="RinZ27 Stats" height="170" />
@@ -41,8 +41,7 @@ Still a student of the craft, always reading more source code and learning from 
 
 ---
 
-<div align="center">
-  <code><b>STATUS:</b> <span style="color: #00B4D8;">ACTIVE</span></code> | 
+<div align="center"> 
   <a href="https://twitter.com/JackyChun96" target="_blank"><code>TWITTER</code></a> | 
   <a href="mailto:dangnhatrin90@gmail.com" target="_blank"><code>EMAIL</code></a> | 
   <img src="https://komarev.com/ghpvc/?username=RinZ27&color=00b4d8&style=flat-square&label=TRAFFIC_ID" alt="Visitor Counter" />
