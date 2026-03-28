@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=2000&color=00B4D8&center=true&vCenter=true&width=500&lines=%3E+Initialize+Connection...;%3E+Scanning+Vulnerabilities...;%3E+Exploiting+Logic+Flaws...;%3E+Patch+Delivered." />
 </div>
 
-### 🛡️ Security Research & Contributions
+### 🛠️ Notable Milestones
 
 I am a security-focused developer with a deep interest in vulnerability research and logic analysis. A notable part of my journey involves identifying a state manipulation vulnerability within **django-unicorn** internals (**[CVE-2026-31815](https://github.com/advisories/GHSA-ffv6-jj46-x367)**). Collaborating with the maintainers to implement a robust fix was a highly rewarding experience.
 
