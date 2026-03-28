@@ -1,26 +1,26 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,00b4d8,706fd3,ff5252,ffda79,33d9b2&height=280&section=header&text=RINZ27&fontSize=90&animation=fadeIn&fontAlignY=38&desc=SECURITY%20ENTHUSIAST&descAlignY=60&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,00b4d8,706fd3,ff5252,ffda79,33d9b2&height=280&section=header&text=RINZ27&fontSize=90&animation=fadeIn&fontAlignY=38&desc=OFFENSIVE%20SECURITY%20&descAlignY=60&descSize=20" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=2000&color=00B4D8&center=true&vCenter=true&width=500&lines=%3E+Always+learning;%3E+Reading+source+code;%3E+Exploring+logic+flaws" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&pause=2000&color=00B4D8&center=true&vCenter=true&width=500&lines=%3E+Initialize+Connection...;%3E+Scanning+Vulnerabilities...;%3E+Exploiting+Logic+Flaws...;%3E+Patch+Delivered." />
 </div>
 
 ### 👋 Hello world
 
-Just someone who’s fascinated by how things work under the hood. Recently spent some time poking around **django-unicorn's** internals and happened to stumble upon a state manipulation bug (**[CVE-2026-31815](https://github.com/advisories/GHSA-ffv6-jj46-x367)**). It was a huge learning curve for me and feel really honored to be credited in their official security log. Working with the maintainers to fix it was a solid experience.
+Just a security-minded developer fascinated by what lies beneath the surface. Recently uncovered a state manipulation flaw in **django-unicorn** internals (**[CVE-2026-31815](https://github.com/advisories/GHSA-ffv6-jj46-x367)**). Collaborating with maintainers to turn bugs into fixes is where I find my "quiet satisfaction".
 
-Nowadays, I'm mostly just trying to read more code and learn as much as I can from the open-source community. There's a certain quiet satisfaction in finding a logic gap and helping turn it into a fix, but I know I've still got a long way to go. Always up for a good technical challenge and a chance to learn something new.
+Still a student of the craft, always reading more source code and learning from the open-source community. If it involves a technical challenge or a logic gap, I am probably interested.
 
 ---
 
-### 📡 Tech Dossier
+### 📡 TECH_STACK://DOSSIER
 
-<div align="left">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,java,js,ts,docker,github,git,postgres,napi,re&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,go,java,js,ts,docker,github,git,postgres,napi,re,linux&perline=12" />
   </a>
 </div>
 
@@ -28,15 +28,22 @@ Nowadays, I'm mostly just trying to read more code and learn as much as I can fr
 
 ---
 
-### 📊 Activity
+### 📊 SYSTEM_METRICS://ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RinZ27&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff&bg_color=0d1117" alt="RinZ27 Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinZ27&layout=compact&theme=dark&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0d1117" alt="Top Langs" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RinZ27&show_icons=true&theme=tokyonight&hide_border=true&title_color=00b4d8&icon_color=ff5252&text_color=ffffff&bg_color=0d1117" alt="RinZ27 Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RinZ27&theme=tokyonight&hide_border=true&background=0d1117&stroke=00b4d8&ring=ff5252&fire=ff5252&currStreakLabel=00b4d8" alt="Streak Stats" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinZ27&layout=compact&theme=tokyonight&hide_border=true&title_color=00b4d8&text_color=ffffff&bg_color=0d1117" alt="Top Langs" height="170" />
 </p>
 
 ---
 
 <div align="center">
-  <a href="https://twitter.com/JackyChun96">Twitter</a> • <a href="mailto:dangnhatrin90@gmail.com">Email</a> • <img src="https://komarev.com/ghpvc/?username=RinZ27&color=00b4d8&style=flat-square&label=VIEWS" alt="Visitor Counter" />
+  <code><b>STATUS:</b> <span style="color: #00B4D8;">ACTIVE</span></code> | 
+  <a href="https://twitter.com/JackyChun96"><code>TWITTER</code></a> | 
+  <a href="mailto:dangnhatrin90@gmail.com"><code>EMAIL</code></a> | 
+  <img src="https://komarev.com/ghpvc/?username=RinZ27&color=00b4d8&style=flat-square&label=TRAFFIC_ID" alt="Visitor Counter" />
 </div>
