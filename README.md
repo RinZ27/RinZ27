@@ -31,12 +31,7 @@ Still a student of the craft, always reading more source code and learning from 
 ### 📊 METRICS:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RinZ27&show_icons=true&theme=tokyonight&hide_border=true" alt="RinZ27 Stats" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RinZ27&theme=tokyonight&hide_border=true" alt="Streak Stats" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinZ27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="170" />
 </p>
 
 ---
