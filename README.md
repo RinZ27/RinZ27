@@ -8,7 +8,6 @@
 
 <br>
 
-> **[SYS_STATUS]: ONLINE**
 > 
 > I spend a good chunk of my time reading source code and hunting down logic bugs. There's just something inherently fun about tearing apart complex systems to see exactly where they break.
 >
@@ -32,7 +31,7 @@
 
 <br><br>
 
-### 🔗 COMMS LINK
+### 🔗 MEDIA LINK
 <a href="https://twitter.com/JackyChun96" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="mailto:dangnhatrin90@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
