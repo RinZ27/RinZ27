@@ -28,7 +28,6 @@
 
 ### 📡 TELEMETRY
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RinZ27&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF003C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=FFFFFF" alt="Streak Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api?username=RinZ27&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&icon_color=FF003C" alt="GitHub Stats" height="170" />
 
 <br><br>
 
