@@ -26,9 +26,6 @@
 
 <br><br>
 
-### 📡 TELEMETRY
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RinZ27&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF003C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=FFFFFF" alt="Streak Stats" height="170" />
-
 <br><br>
 
 ### 🔗 MEDIA LINK
