@@ -19,7 +19,6 @@
 ---
 
 <!-- ═══════════════════ ABOUT + LANG STATS ═══════════════════ -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinZ27&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=00f0ff&text_color=e2e8f0&langs_count=8&size_weight=0.5&count_weight=0.5" width="280"/>
 
 ## ▸ `whoami`
 
@@ -100,7 +99,6 @@ When not hunting bugs, I'm throwing patches at whatever catches my eye on GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RinZ27&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00f0ff&text_color=e2e8f0&icon_color=ff003c&ring_color=00f0ff" height="170" />
 
 <br/><br/>
 
