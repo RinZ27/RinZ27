@@ -111,7 +111,7 @@ When not hunting bugs, I'm throwing patches at whatever catches my eye on GitHub
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RinZ27/RinZ27/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RinZ27/RinZ27/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/RinZ27/RinZ27/output/ocean.gif" width="100%" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RinZ27/RinZ27/output/github-snake.svg" width="100%" />
 </picture>
 
 <br/><br/>
