@@ -23,15 +23,15 @@
 
 ## ▸ `whoami`
 
-Security researcher from **Vietnam** who spends most of the time reading source code and hunting down logic bugs. There's just something inherently fun about tearing apart complex systems to see exactly where they break.
+Based in **Vietnam**. Mostly just reading source code all day and breaking stuff to see what falls apart. Got lucky digging through **django-unicorn** — found a state manipulation bug that turned into **[CVE-2026-31815](https://github.com/advisories/GHSA-ffv6-jj46-x367)**.
 
-Recently dug into **django-unicorn** and stumbled across a state manipulation flaw (**[CVE-2026-31815](https://github.com/advisories/GHSA-ffv6-jj46-x367)**). Worked closely with the maintainers to get a patch shipped out.
+When not hunting bugs, I'm throwing patches at whatever catches my eye on GitHub.
 
 **`🎯 Attack Surface:`**
-- 🔓 **Vulnerability Research** — Source code auditing, logic bug hunting
-- 🛠️ **OSS Contributions** — Patches across **langchain**, **ray**, **sktime**, **tldr-pages**
-- 🧪 **Security Tooling** — Custom audit scripts, automated scanner pipelines
-- 🐍 **Core Stack** — Python, Go, JavaScript/TypeScript, Bash
+- 🔓 **Vuln Research** — source auditing, logic bug hunting
+- 🛠️ **OSS Patches** — langchain, ray, sktime, tldr-pages, ...
+- 🧪 **Tooling** — custom audit scripts, automated scanners
+- 🐍 **Stack** — Python, Go, JS/TS, Bash
 
 <br clear="right"/>
 
@@ -39,7 +39,7 @@ Recently dug into **django-unicorn** and stumbled across a state manipulation fl
 
 ## ▸ `cat /var/log/targets.log`
 
-> *Notable contributions and kills across the open-source landscape*
+> *stuff that got merged, stuff still cooking*
 
 <div align="center">
 
@@ -105,6 +105,14 @@ Recently dug into **django-unicorn** and stumbled across a state manipulation fl
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=RinZ27&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00f0ff&text_color=e2e8f0&icon_color=ff003c&ring_color=00f0ff" height="170" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RinZ27/RinZ27/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RinZ27/RinZ27/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RinZ27/RinZ27/output/ocean.gif" width="100%" />
+</picture>
 
 <br/><br/>
 
