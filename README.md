@@ -100,10 +100,6 @@ When not hunting bugs, I'm throwing patches at whatever catches my eye on GitHub
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RinZ27&theme=radical&hide_border=true&background=0D0D0D&ring=00F0FF&fire=FF003C&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F0FF&sideLabels=7028E4&dates=555555" alt="Streak Stats" height="170" />
-
-<br/><br/>
-
 <img src="https://github-readme-stats.vercel.app/api?username=RinZ27&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=00f0ff&text_color=e2e8f0&icon_color=ff003c&ring_color=00f0ff" height="170" />
 
 <br/><br/>
